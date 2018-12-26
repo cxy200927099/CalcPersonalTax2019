@@ -5,12 +5,13 @@
 
 
 # 各平台使用方式及参数说明
-month: 月薪
-monthExcept: 每月五险一金扣除数
-monthSpecialExcept: 每月专项扣除数
-yearEndBonus: 年终奖额度
-yearEndBonusMonth: 年终奖几月份发
-calcType: 计算方式，按年还是按月
+## 参数说明
+- month: 月薪
+- monthExcept: 每月五险一金扣除数
+- monthSpecialExcept: 每月专项扣除数
+- yearEndBonus: 年终奖额度
+- yearEndBonusMonth: 年终奖几月份发
+- calcType: 计算方式，按年还是按月，**按年计算方式还未实现**
 
 ## mac平台计算方式
 ```./CalPersonalTax_mac -month=30000 -monthExcept=4500 -monthSpecialExcept=2000 -yearEndBonus=100000 -yearEndBonusMonth=2 -calcType=month```
