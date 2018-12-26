@@ -1,6 +1,9 @@
 # CalcPersonalTax2019
 2019年个人所得税计算方式
 
+应该还有bug，大神别喷！
+
+
 # 各平台使用方式及参数说明
 month: 月薪
 monthExcept: 每月五险一金扣除数
