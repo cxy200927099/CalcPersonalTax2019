@@ -20,8 +20,8 @@
 ```./CalPersonalTax_linux-64 -month=30000 -monthExcept=4500 -monthSpecialExcept=2000 -yearEndBonus=100000 -yearEndBonusMonth=2 -calcType=month ```
 
 ## windows平台运行方式
-打开命令行 win+r
-将CalPersonalTax_x86-64.exe拖到命令行后，后面添加如下：
+打开命令行**win+r**
+将**CalPersonalTax_x86-64.exe**拖到命令行后，后面添加如下：
  -month=30000 -monthExcept=4500 -monthSpecialExcept=2000 -yearEndBonus=100000 -yearEndBonusMonth=2 -calcType=month
 回车即可
 
